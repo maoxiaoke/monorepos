@@ -1,5 +1,11 @@
 # @xkmao/nazha-monorepo-b
 
+## 2.1.0
+
+### Minor Changes
+
+- c94ca3e: turn to 6
+
 ## 2.0.0
 
 ### Major Changes
