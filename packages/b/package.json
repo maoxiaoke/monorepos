@@ -9,6 +9,9 @@
   "dependencies": {
     "@xkmao/nazha-monorepo-a": "workspace: *"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "ISC"
 }
