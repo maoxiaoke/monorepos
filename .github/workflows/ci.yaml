@@ -28,7 +28,7 @@ jobs:
       - name: install dependencies
         run: pnpm install
       - name: create and publish versions
-        uses: changesets/action@main
+        uses: changesets/action@master
         with:
           commit: "chore: update versions"
           title: "chore: update versions"
