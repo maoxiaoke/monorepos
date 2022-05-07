@@ -1,4 +1,10 @@
 {
+	"name": "monorepos",
+	"scripts": {
+		"bump": "changeset version",
+		"changeset": "changeset",
+		"publish": "changeset publish"
+	},
 	"devDependencies": {
 		"@changesets/cli": "^2.22.0"
 	}
